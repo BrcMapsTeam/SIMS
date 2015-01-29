@@ -1,0 +1,63 @@
+body {
+  font-family: Sans-Serif;
+  font-weight:300;
+  line-height:1.6;
+}
+
+.fullwidth {
+    background-color:#E2001A;
+    color:white;
+    padding-top:50px;
+    padding-bottom:20px;
+}
+
+.fullwidth a {
+    color:white;
+    text-decoration: none;
+}
+
+.largePara {
+    font-size:30px;
+}
+
+h1 {
+    font-size:40px;
+    font-family: Sans-Serif;
+    font-weight:300; 
+}
+
+h2 {
+    font-size:40px;
+    font-family: Sans-Serif;
+    font-weight:300;
+}
+
+#content a:hover { 
+    background-color: #FFCDD2;
+}
+
+.mediumgrey {
+    font-size:20px;
+    color:#777777;
+}
+
+.smallgrey {
+    font-size:16px;
+    color:#777777;
+}
+
+.inline{
+    display:inline-block;
+}
+
+.icon {
+    border-width:3px;
+    border-style:solid;
+    border-color:#428bca;
+}
+
+.product {
+    padding-top:20px;
+    padding-bottom:30px;
+    padding-right:30px;
+}
